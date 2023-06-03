@@ -1,0 +1,738 @@
+Triple: ['__subject__ MotorSport Vision __predicate__ city __object__ Fawkham']
+
+Triple: ['__subject__ Olga Bondareva __predicate__ deathDate __object__ 1991-12-09']
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ populationDensity __object__ 1604.0']
+
+Triple: ['__subject__ Piotr Hallmann __predicate__ birthDate __object__ 1987-08-25']
+
+Triple: ['__subject__ Darlington __predicate__ areaCode __object__ 01325']
+
+Triple: ['__subject__ Israel __predicate__ officialLanguage __object__ Modern_Hebrew']
+
+Triple: ['__subject__ Chinabank __predicate__ location __object__ Philippines']
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ influencedBy __object__ Andrzej_Piotr_Ruszczyński']
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ spouse __object__ George_Monson']
+
+Triple: ['__subject__ Gdynia, Poland __predicate__ utcOffset __object__ +2']
+
+Triple: ['__subject__ Detroit __predicate__ areaTotal __object__ 370.03']
+
+Triple: ['__subject__ GMA New Media __predicate__ location __object__ GMA_Network_Center']
+
+Triple: ['__subject__ Olga Bondareva __predicate__ professionalField __object__ Economics']
+
+Triple: ['__subject__ English Without Tears __predicate__ musicComposer __object__ Nicholas_Brodszky']
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ Cecil_Parker"]
+
+Triple: ['__subject__ Super Capers __predicate__ director __object__ Ray_Griggs_(director)']
+
+Triple: ['__subject__ Expect a Miracle __predicate__ genre __object__ Easy_listening']
+
+Triple: ['__subject__ Squeeze (The Velvet Underground album) __predicate__ followedBy __object__ 1969:_The_Velvet_Underground_Live']
+
+Triple: ['__subject__ Gdynia, Poland __predicate__ timeZone __object__ Central_European_Summer_Time']
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ nationality __object__ Turkish_people']
+
+Triple: ['__subject__ Brandon Carter __predicate__ professionalField __object__ General_relativity']
+
+Triple: ['__subject__ Nie Haisheng __predicate__ birthPlace __object__ Hubei']
+
+Triple: ['__subject__ English Without Tears __predicate__ producer __object__ Anatole_de_Grunwald']
+
+Triple: ['__subject__ Sludge metal __predicate__ musicSubgenre __object__ Southern_sludge']
+
+Triple: ['__subject__ Gdynia, Poland __predicate__ leaderTitle __object__ Mayor']
+
+Triple: ['__subject__ Darlington __predicate__ postalCode __object__ DL1, DL2, DL3']
+
+Triple: ['__subject__ Turkey __predicate__ demonym __object__ Turk']
+
+Triple: ['__subject__ The Fellowship of the Ring __predicate__ literaryGenre __object__ Fantasy_(genre)']
+
+Triple: ['__subject__ Israel __predicate__ populationDensity __object__ 387.63']
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ runwayName __object__ 08/26']
+
+Triple: ['__subject__ Kingdom of England __predicate__ governmentType __object__ Unitary_state']
+
+Triple: ['__subject__ India __predicate__ leader __object__ Pranab_Mukherjee']
+
+Triple: ['__subject__ The Velvet Underground __predicate__ genre __object__ Proto-punk']
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordLabel __object__ Universal_Music_Group']
+
+Triple: ['__subject__ Pop rock __predicate__ stylisticOrigin __object__ Rock_music']
+
+Triple: ['__subject__ Take It Off! __predicate__ producer __object__ The_Honeymoon_Killers_(American_band)']
+
+Triple: ['__subject__ Adam West __predicate__ birthYear __object__ 1928']
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ cityServed __object__ Bedford_Autodrome']
+
+Triple: ['__subject__ Take It Off! __predicate__ genre __object__ Noise_rock']
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ writer __object__ Ted_Willis"]
+
+Triple: ['__subject__ HBO __predicate__ sisterStation __object__ Cinemax']
+
+Triple: ['__subject__ Grigory Neujmin __predicate__ deathDate __object__ 1946-12-17']
+
+Triple: ['__subject__ Universal Music Group __predicate__ keyPerson __object__ Lucian_Grainge']
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ award __object__ State_Award_for_Superior_Achievement']
+
+Triple: ['__subject__ Israel __predicate__ leader __object__ Reuven_Rivlin']
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ broadcastedBy __object__ HBO']
+
+Triple: ['__subject__ The Honeymoon Killers (American band) __predicate__ genre __object__ Noise_rock']
+
+Triple: ['__subject__ Punk blues __predicate__ instrument __object__ Drum_kit']
+
+Triple: ['__subject__ Israel __predicate__ officialLanguage __object__ Modern_Standard_Arabic']
+
+Triple: ['__subject__ John Mills __predicate__ deathYear __object__ 2005']
+
+Triple: ['__subject__ Polydor Records __predicate__ parentCompany __object__ Universal_Music_Group']
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ writer __object__ Stargate_(production_team)']
+
+Triple: ['__subject__ Let It Breed __predicate__ followedBy __object__ Turn_Me_On_(album)']
+
+Triple: ['__subject__ Philippines __predicate__ leader __object__ Leni_Robredo']
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ citizenship __object__ United_States']
+
+Triple: ['__subject__ University of Burgundy __predicate__ numberOfUndergraduateStudents __object__ 16800']
+
+Triple: ['__subject__ University of Burgundy __predicate__ numberOfStudents __object__ 27400']
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ recordLabel __object__ Sony_Music_Entertainment']
+
+Triple: ['__subject__ German Empire __predicate__ currency __object__ German_Papiermark']
+
+Triple: ['__subject__ HBO __predicate__ timeshiftChannel __object__ HBO East, HBO West']
+
+Triple: ['__subject__ Terence Rattigan __predicate__ deathYear __object__ 1977-01-01']
+
+Triple: ['__subject__ J. R. R. Tolkien __predicate__ notableWork __object__ The_Silmarillion']
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ type __object__ City']
+
+Triple: ['__subject__ Israel __predicate__ leaderTitle __object__ Prime Minister']
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ apoapsis __object__ 418476000000.0']
+
+Triple: ['__subject__ The Velvet Underground __predicate__ associatedBand/associatedMusicalArtist __object__ Theatre_of_Eternal_Music']
+
+Triple: ['__subject__ Noise rock __predicate__ stylisticOrigin __object__ Noise_music']
+
+Triple: ["__subject__ Nie Haisheng __predicate__ nationality __object__ People's_Republic_of_China"]
+
+Triple: ['__subject__ J. R. R. Tolkien __predicate__ birthDate __object__ 1892-01-03']
+
+Triple: ['__subject__ Kingdom of England __predicate__ foundingYear __object__ 0927']
+
+Triple: ['__subject__ Post-metal __predicate__ instrument __object__ Synthesizer']
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ genre __object__ Rock_music']
+
+Triple: ['__subject__ Manila __predicate__ isPartOf __object__ Metro_Manila']
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ followedBy __object__ Imagine_(John_Lennon_song)']
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ birthDate __object__ 1934-01-01']
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ residence __object__ New_Jersey']
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ cinematography __object__ Gilbert_Taylor"]
+
+Triple: ['__subject__ The Hobbit __predicate__ followedBy __object__ The_Lord_of_the_Rings']
+
+Triple: ['__subject__ German Empire __predicate__ currency __object__ South_German_gulden']
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ recordLabel __object__ E-Vinyl']
+
+Triple: ['__subject__ Turkey __predicate__ leaderTitle __object__ Prime Minister']
+
+Triple: ['__subject__ Olga Bondareva __predicate__ professionalField __object__ Mathematics']
+
+Triple: ['__subject__ United States __predicate__ demonym __object__ American']
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ releaseDate __object__ 2012-12-27']
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ professionalField __object__ Mathematical_optimization']
+
+Triple: ['__subject__ Terence Rattigan __predicate__ birthDate __object__ 1911-01-01']
+
+Triple: ['__subject__ HBO __predicate__ owner __object__ Time_Warner']
+
+Triple: ['__subject__ Brandon Carter __predicate__ knownFor __object__ Anthropic_principle']
+
+Triple: ['__subject__ Petah Tikva __predicate__ leader __object__ Itzik_Braverman']
+
+Triple: ['__subject__ Squeeze (The Velvet Underground album) __predicate__ genre __object__ Rock_music']
+
+Triple: ['__subject__ New Jersey __predicate__ language __object__ English_language']
+
+Triple: ['__subject__ La Crosse, Wisconsin __predicate__ isPartOf __object__ La_Crosse_County,_Wisconsin']
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ professionalField __object__ Photographer']
+
+Triple: ['__subject__ United States __predicate__ populationTotal __object__ 324720797']
+
+Triple: ['__subject__ Terence Rattigan __predicate__ imdbId __object__ 0711905']
+
+Triple: ['__subject__ San Francisco __predicate__ leader __object__ Ed_Lee_(politician)']
+
+Triple: ['__subject__ Detroit __predicate__ isPartOf __object__ Michigan']
+
+Triple: ['__subject__ McVeagh of the South Seas __predicate__ producer __object__ The_Progressive_Motion_Picture_Company']
+
+Triple: ['__subject__ HBO __predicate__ formerName __object__ The Green Channel']
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ timeZone __object__ Pacific_Standard_Time_Zone']
+
+Triple: ['__subject__ The Hobbit __predicate__ literaryGenre __object__ Juvenile_fantasy']
+
+Triple: ['__subject__ Detroit __predicate__ isPartOf __object__ Wayne_County,_Michigan']
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ deathPlace __object__ Petah_Tikva']
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ musicalBand __object__ Train_(band)']
+
+Triple: ['__subject__ Expect a Miracle __predicate__ genre __object__ Instrumental_music']
+
+Triple: ['__subject__ Tom Sizemore __predicate__ spouse __object__ Maeve_Quinlan']
+
+Triple: ['__subject__ Gdynia, Poland __predicate__ timeZone __object__ Central_European_Time']
+
+Triple: ['__subject__ McVeagh of the South Seas __predicate__ imdbId __object__ 0004319']
+
+Triple: ['__subject__ Morelos __predicate__ leader __object__ Adrián_Rivera_Pérez']
+
+Triple: ['__subject__ Tokat __predicate__ areaCode __object__ +90 356']
+
+Triple: ['__subject__ Super Capers __predicate__ distributor __object__ Roadside_Attractions']
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ birthPlace __object__ Darlington']
+
+Triple: ['__subject__ Rock music __predicate__ musicSubgenre __object__ Proto-punk']
+
+Triple: ['__subject__ Pontiac __predicate__ successor __object__ Buick']
+
+Triple: ['__subject__ Roadside Attractions __predicate__ foundingYear __object__ 2003-01-01']
+
+Triple: ['__subject__ India __predicate__ demonym __object__ Indian']
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ populationMetro __object__ 1777539']
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ genre __object__ Punk_blues']
+
+Triple: ["__subject__ Mermaid (Train song) __predicate__ precededBy __object__ This'll_Be_My_Year"]
+
+Triple: ['__subject__ University of Burgundy __predicate__ staff __object__ 2900']
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ director __object__ Sarah_Teale']
+
+Triple: ['__subject__ Darlington __predicate__ region __object__ North_East_England']
+
+Triple: ['__subject__ Turkish people __predicate__ religion __object__ Irreligion']
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ artist __object__ The_Honeymoon_Killers_(American_band)']
+
+Triple: ['__subject__ Michael Rooker __predicate__ birthYear __object__ 1955-01-01']
+
+Triple: ['__subject__ English Without Tears __predicate__ cinematography __object__ Bernard_Knowles']
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ musicalArtist __object__ John_Lennon']
+
+Triple: ['__subject__ India __predicate__ leaderTitle __object__ President']
+
+Triple: ['__subject__ Tom Sizemore __predicate__ activeYearsStartYear __object__ 1989-01-01']
+
+Triple: ['__subject__ India __predicate__ leaderTitle __object__ Chief Justice']
+
+Triple: ['__subject__ San Francisco __predicate__ utcOffset __object__ &minus;7']
+
+Triple: ['__subject__ Brandon Carter __predicate__ birthPlace __object__ England']
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ citizenship __object__ Turkey']
+
+Triple: ['__subject__ Morelos __predicate__ areaTotal __object__ 4879.0']
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ governmentType __object__ Council-manager_government']
+
+Triple: ['__subject__ Olga Bondareva __predicate__ birthName __object__ Olga Nikolaevna Bondareva']
+
+Triple: ['__subject__ Lionsgate __predicate__ keyPerson __object__ Michael_R._Burns']
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ utcOffset __object__ −6']
+
+Triple: ['__subject__ Piotr Hallmann __predicate__ weight __object__ 70.308']
+
+Triple: ['__subject__ Turkey __predicate__ percentageOfAreaWater __object__ 1.3']
+
+Triple: ['__subject__ Istanbul __predicate__ utcOffset __object__ +2']
+
+Triple: ['__subject__ Polydor Records __predicate__ distributingLabel __object__ Interscope_Geffen_A&M']
+
+Triple: ['__subject__ Super Capers __predicate__ writer __object__ Ray_Griggs_(director)']
+
+Triple: ['__subject__ English Without Tears __predicate__ editing __object__ Alan_Jaggs']
+
+Triple: ['__subject__ Nie Haisheng __predicate__ birthPlace __object__ Zaoyang']
+
+Triple: ['__subject__ India __predicate__ populationTotal __object__ 1293057000']
+
+Triple: ['__subject__ Zaoyang __predicate__ isPartOf __object__ Hubei']
+
+Triple: ['__subject__ Tokat __predicate__ country __object__ Turkey']
+
+Triple: ['__subject__ Take It Off! __predicate__ producer __object__ Wharton_Tiers']
+
+Triple: ['__subject__ Olga Bondareva __predicate__ birthPlace __object__ Leningrad,_USSR']
+
+Triple: ['__subject__ Take It Off! __predicate__ precededBy __object__ Turn_Me_On_(album)']
+
+Triple: ['__subject__ John Mills __predicate__ deathPlace __object__ Denham,_Buckinghamshire']
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ discoverer __object__ Grigory_Neujmin']
+
+Triple: ['__subject__ Super Capers __predicate__ starring __object__ Adam_West']
+
+Triple: ['__subject__ The Two Towers __predicate__ followedBy __object__ The_Return_of_the_King']
+
+Triple: ['__subject__ Jamie Lawrence __predicate__ birthDate __object__ 1970-03-08']
+
+Triple: ['__subject__ Sludge metal __predicate__ instrument __object__ Singing']
+
+Triple: ['__subject__ Israel __predicate__ longName __object__ State of Israel']
+
+Triple: ['__subject__ Michael Rooker __predicate__ birthDate __object__ 1955-04-06']
+
+Triple: ['__subject__ Mexico __predicate__ areaTotal __object__ 1972550.0']
+
+Triple: ['__subject__ Sludge metal __predicate__ musicSubgenre __object__ Stoner_sludge']
+
+Triple: ['__subject__ Pontiac Rageous __predicate__ assembly __object__ Detroit']
+
+Triple: ['__subject__ University of Burgundy __predicate__ country __object__ France']
+
+Triple: ['__subject__ MotorSport Vision __predicate__ city __object__ Kent']
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ recordLabel __object__ Columbia_Records']
+
+Triple: ['__subject__ Grigory Neujmin __predicate__ birthDate __object__ 1886-01-01']
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ format __object__ Music_download']
+
+Triple: ['__subject__ McVeagh of the South Seas __predicate__ writer __object__ Harry_Carey_(actor_born_1878)']
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ album __object__ Imagine_(John_Lennon_album)']
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ producer __object__ The_Honeymoon_Killers_(American_band)']
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ leader __object__ Juan_Nolasco']
+
+Triple: ['__subject__ GMA New Media __predicate__ product __object__ Online_Game']
+
+Triple: ['__subject__ Pop rock __predicate__ musicSubgenre __object__ Indie_pop']
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ genre __object__ Sludge_metal']
+
+Triple: ['__subject__ Train (band) __predicate__ genre __object__ Pop_rock']
+
+Triple: ['__subject__ McVeagh of the South Seas __predicate__ distributor __object__ Alliance_Films_Corporation']
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ operatingOrganisation __object__ MotorSport_Vision']
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ producer __object__ The_Velvet_Underground']
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ birthPlace __object__ German_Empire']
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ genre __object__ Noise_rock']
+
+Triple: ['__subject__ Mexico __predicate__ leaderTitle __object__ President of the Senate']
+
+Triple: ['__subject__ Dijon __predicate__ elevationAboveTheSeaLevel __object__ 245.0']
+
+Triple: ['__subject__ Reggae __predicate__ stylisticOrigin __object__ Rhythm_and_Blues']
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ discovered __object__ 1929-06-11']
+
+Triple: ['__subject__ Super Capers __predicate__ starring __object__ Justin_Whalin']
+
+Triple: ['__subject__ GMA New Media __predicate__ parentCompany __object__ GMA_Network_(company)']
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ runtime __object__ 3.16']
+
+Triple: ['__subject__ Reşadiye __predicate__ isPartOf __object__ Tokat_Province']
+
+Triple: ['__subject__ Petah Tikva __predicate__ country __object__ Israel']
+
+Triple: ['__subject__ Harold French __predicate__ activeYearsStartYear __object__ 1920-01-01']
+
+Triple: ['__subject__ Noise rock __predicate__ musicFusionGenre __object__ Noise_pop']
+
+Triple: ['__subject__ Live at Roadburn 2008 (Year of No Light album) __predicate__ followedBy __object__ Karysun_/_Year_of_No_Light']
+
+Triple: ['__subject__ Israel __predicate__ ethnicGroup __object__ Arab_citizens_of_Israel']
+
+Triple: ['__subject__ Noise rock __predicate__ derivative __object__ Post-hardcore']
+
+Triple: ['__subject__ Anatole de Grunwald __predicate__ deathPlace __object__ London']
+
+Triple: ['__subject__ AmeriGas __predicate__ numberOfEmployees __object__ 8500']
+
+Triple: ['__subject__ Reggae __predicate__ derivative __object__ Hip_hop_music']
+
+Triple: ['__subject__ English Without Tears __predicate__ writer __object__ Terence_Rattigan']
+
+Triple: ['__subject__ Adam West __predicate__ activeYearsStartYear __object__ 1954-01-01']
+
+Triple: ['__subject__ University of Cambridge __predicate__ country __object__ England']
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ followedBy __object__ Happy_Xmas_(War_Is_Over)']
+
+Triple: ['__subject__ Andrzej Piotr Ruszczyński __predicate__ professionalField __object__ Mathematical_optimization']
+
+Triple: ['__subject__ Expect a Miracle __predicate__ precededBy __object__ Pools_of_Light_(Brian_Kelly_album)']
+
+Triple: ['__subject__ Zaoyang __predicate__ isPartOf __object__ Xiangyang']
+
+Triple: ['__subject__ MotorSport Vision __predicate__ city __object__ Longfield']
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ elevationAboveTheSeaLevel __object__ 83.2104']
+
+Triple: ['__subject__ The Two Towers __predicate__ precededBy __object__ The_Fellowship_of_the_Ring']
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordedIn __object__ St._Louis,_Missouri']
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ runwayLength __object__ 1095.0']
+
+Triple: ['__subject__ The Fellowship of the Ring __predicate__ releaseDate __object__ 1954-07-29']
+
+Triple: ['__subject__ Train (band) __predicate__ recordLabel __object__ Warner_Music_Group']
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ genre __object__ Pop_music']
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ isPartOf __object__ Morelos']
+
+Triple: ['__subject__ Turkey __predicate__ leaderTitle __object__ President']
+
+Triple: ['__subject__ German Empire __predicate__ foundingDate __object__ 1871-01-01']
+
+Triple: ['__subject__ University of Burgundy __predicate__ numberOfPostgraduateStudents __object__ 9400']
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ nationality __object__ Kingdom_of_England']
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ birthPlace __object__ Reşadiye']
+
+Triple: ['__subject__ India __predicate__ foundingDate __object__ 1950-01-26']
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ runtime __object__ 35.1']
+
+Triple: ['__subject__ Trane __predicate__ operatingIncome __object__ 875400000']
+
+Triple: ['__subject__ Brandon Carter __predicate__ knownFor __object__ Carter_constant']
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ certification __object__ FIMI']
+
+Triple: ['__subject__ The Velvet Underground __predicate__ formerBandMember __object__ Lou_Reed']
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ writer __object__ Amund_Bjørklund']
+
+Triple: ['__subject__ La Crosse, Wisconsin __predicate__ leaderTitle __object__ Mayor']
+
+Triple: ['__subject__ Wharton Tiers __predicate__ birthDate __object__ 1953-01-01']
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ icaoLocationIdentifier __object__ EGBF']
+
+Triple: ['__subject__ Karlsruhe __predicate__ leaderTitle __object__ Oberbürgermeister']
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ releaseDate __object__ 2006-09-06']
+
+Triple: ['__subject__ The Fellowship of the Ring __predicate__ publisher __object__ George_Allen_&_Unwin']
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ runtime __object__ 94.0"]
+
+Triple: ['__subject__ John Mills __predicate__ spouse __object__ Aileen_Raymond']
+
+Triple: ['__subject__ Olga Bondareva __predicate__ almaMater __object__ Leningrad_State_University']
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ album __object__ California_37_(Train_album)']
+
+Triple: ['__subject__ Brandon Carter __predicate__ knownFor __object__ Doomsday_argument']
+
+Triple: ['__subject__ Lionsgate __predicate__ service __object__ Digital_distribution']
+
+Triple: ['__subject__ Pontiac __predicate__ extinctionDate __object__ 2010-10-31']
+
+Triple: ['__subject__ Rock music __predicate__ musicFusionGenre __object__ Noise_rock']
+
+Triple: ['__subject__ English Without Tears __predicate__ runtime __object__ 89.0']
+
+Triple: ['__subject__ Mexico __predicate__ leader __object__ Roberto_Gil_Zuarth']
+
+Triple: ['__subject__ University of Burgundy __predicate__ campus __object__ Dijon']
+
+Triple: ['__subject__ Darlington __predicate__ gridReference __object__ NZ289147']
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ followedBy __object__ Live_at_Roadburn_2008_(Year_of_No_Light_album)']
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ knownFor __object__ Stochastic_programming']
+
+Triple: ['__subject__ Karlsruhe __predicate__ areaTotal __object__ 173.46']
+
+Triple: ['__subject__ Nicholas Brodszky __predicate__ background __object__ non_performing_personnel']
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ precededBy __object__ Power_to_the_People_(song)']
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ runwaySurfaceType __object__ Concrete']
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ location __object__ Thurleigh']
+
+Triple: ['__subject__ Saint Petersburg __predicate__ leader __object__ Georgy_Poltavchenko']
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ producer __object__ Tom_Simon']
+
+Triple: ['__subject__ Turkey __predicate__ longName __object__ Republic of Turkey']
+
+Triple: ['__subject__ Lionsgate __predicate__ location __object__ United_States']
+
+Triple: ['__subject__ France __predicate__ longName __object__ French Republic']
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ writer __object__ Pat_Monahan']
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ editor __object__ Geof_Bartz']
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ runtime __object__ 83.0']
+
+Triple: ['__subject__ Pop rock __predicate__ musicFusionGenre __object__ Baroque_pop']
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ birthDate __object__ 1908-05-02']
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ periapsis __object__ 260855000000.0']
+
+Triple: ['__subject__ Karlsruhe __predicate__ elevationAboveTheSeaLevel __object__ 115.0']
+
+Triple: ['__subject__ Dijon __predicate__ postalCode __object__ 21000']
+
+Triple: ['__subject__ Super Capers __predicate__ gross __object__ 30955.0']
+
+Triple: ['__subject__ Super Capers __predicate__ language __object__ English_language']
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ musicComposer __object__ Louis_Levy"]
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordedIn __object__ United_States']
+
+Triple: ['__subject__ Lionsgate __predicate__ industry __object__ Entertainment']
+
+Triple: ['__subject__ Year of No Light __predicate__ associatedBand/associatedMusicalArtist __object__ Monarch_(band)']
+
+Triple: ['__subject__ John Mills __predicate__ child __object__ Juliet_Mills']
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ producer __object__ Phil_Spector']
+
+Triple: ['__subject__ Punk blues __predicate__ stylisticOrigin __object__ Garage_rock']
+
+Triple: ['__subject__ Pontiac Rageous __predicate__ manufacturer __object__ Pontiac']
+
+Triple: ['__subject__ Thurleigh __predicate__ ceremonialCounty __object__ Bedfordshire']
+
+Triple: ['__subject__ Olga Bondareva __predicate__ birthDate __object__ 1937-04-27']
+
+Triple: ['__subject__ Lionsgate __predicate__ service __object__ Broadcast_programming']
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ genre __object__ Post-metal']
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ precededBy __object__ Squeeze_(The_Velvet_Underground_album)']
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ professionalField __object__ Botany']
+
+Triple: ['__subject__ GMA Network (company) __predicate__ type __object__ Public_company']
+
+Triple: ['__subject__ United States __predicate__ motto __object__ In God we trust']
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ birthDate __object__ 1958-01-01']
+
+Triple: ['__subject__ Hypermarcas __predicate__ keyPerson __object__ CEO']
+
+Triple: ['__subject__ English Without Tears __predicate__ director __object__ Harold_French']
+
+Triple: ['__subject__ San Francisco __predicate__ areaCode __object__ 628']
+
+Triple: ['__subject__ Petah Tikva __predicate__ meaning __object__ Opening of hope']
+
+Triple: ['__subject__ Expect a Miracle __predicate__ followedBy __object__ Afterplay_(Brian_Kelly_album)']
+
+Triple: ['__subject__ Let It Breed __predicate__ precededBy __object__ Love_American_Style_(album)']
+
+Triple: ['__subject__ Reşadiye __predicate__ country __object__ Turkey']
+
+Triple: ['__subject__ Lionsgate __predicate__ keyPerson __object__ Jon_Feltheimer']
+
+Triple: ['__subject__ Max Benedict __predicate__ deathPlace __object__ London']
+
+Triple: ['__subject__ Istanbul __predicate__ timeZone __object__ Eastern_European_Time']
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ followedBy __object__ Take_It_Off!']
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ recordLabel __object__ Crucial_Blast']
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ almaMater __object__ Humboldt_University']
+
+Triple: ['__subject__ Expect a Miracle __predicate__ runtime __object__ 54.56']
+
+Triple: ['__subject__ Super Capers __predicate__ starring __object__ Michael_Rooker']
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ leaderTitle __object__ Governator']
+
+Triple: ['__subject__ Pontiac Rageous __predicate__ bodyStyle __object__ Coupe']
+
+Triple: ['__subject__ La Crosse, Wisconsin __predicate__ elevationAboveTheSeaLevel __object__ 204.0']
+
+Triple: ['__subject__ Shenzhou 10 __predicate__ cosparId __object__ 2013-029A']
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ timeZone __object__ Pacific_Daylight_Time']
+
+Triple: ['__subject__ Pontiac __predicate__ parentCompany __object__ General_Motors']
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ releaseDate __object__ 2001-10-16']
+
+Triple: ['__subject__ India __predicate__ longName __object__ Republic of India']
+
+Triple: ['__subject__ Zaoyang __predicate__ utcOffset __object__ +8']
+
+Triple: ['__subject__ MotorSport Vision __predicate__ foundingYear __object__ 2004']
+
+Triple: ['__subject__ Max Benedict __predicate__ activeYearsStartYear __object__ 1947-01-01']
+
+Triple: ['__subject__ John Mills __predicate__ spouse __object__ Mary_Hayley_Bell']
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ deathDate __object__ 1776-02-18']
+
+Triple: ['__subject__ Justin Whalin __predicate__ birthPlace __object__ San_Francisco']
+
+Triple: ['__subject__ Morelos __predicate__ leaderTitle __object__ Governor']
+
+Triple: ['__subject__ University of Cambridge __predicate__ chancellor __object__ David_Sainsbury,_Baron_Sainsbury_of_Turville']
+
+Triple: ['__subject__ The Two Towers __predicate__ author __object__ J._R._R._Tolkien']
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ residence __object__ Teşvikiye']
+
+Triple: ['__subject__ University of Burgundy __predicate__ numberOfDoctoralStudents __object__ 1299']
+
+Triple: ['__subject__ Justin Whalin __predicate__ occupation __object__ Presenter']
+
+Triple: ['__subject__ Cyril Frankel __predicate__ birthPlace __object__ United_Kingdom']
+
+Triple: ['__subject__ Harold French __predicate__ birthPlace __object__ UK']
+
+Triple: ['__subject__ Gdynia, Poland __predicate__ areaTotal __object__ 135000000.0']
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ nationality __object__ Israel']
+
+Triple: ['__subject__ New Jersey __predicate__ areaTotal __object__ 22591.38']
+
+Triple: ['__subject__ Super Capers __predicate__ starring __object__ Tom_Lister,_Jr.']
+
+Triple: ['__subject__ Istanbul __predicate__ populationMetroDensity __object__ 2691.0']
+
+Triple: ['__subject__ Pontiac __predicate__ product __object__ Automobile']
+
+Triple: ['__subject__ Olga Bondareva __predicate__ knownFor __object__ Bondareva–Shapley_theorem']
+
+Triple: ['__subject__ Brazil __predicate__ leaderTitle __object__ Vice President']
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ director __object__ Cyril_Frankel"]
+
+Triple: ['__subject__ English Without Tears __predicate__ releaseDate __object__ 1944-07-28']
+
+Triple: ['__subject__ Harold French __predicate__ occupation __object__ Film_director']
+
+Triple: ['__subject__ Squeeze (The Velvet Underground album) __predicate__ producer __object__ The_Velvet_Underground']
+
+Triple: ['__subject__ Andrzej Piotr Ruszczyński __predicate__ knownFor __object__ Stochastic_programming']
+
+Triple: ['__subject__ Live at Roadburn 2008 (Year of No Light album) __predicate__ producer __object__ Roadburn_Festival']
+
+Triple: ['__subject__ United States __predicate__ areaTotal __object__ 9833520000000.0']
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ birthDate __object__ 1726-01-01']
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ director __object__ Tom_Simon']
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ leaderTitle __object__ City Manager']
+
+Triple: ['__subject__ New Jersey __predicate__ areaOfWater __object__ 3544040000.0']
+
+Triple: ['__subject__ Pontiac Rageous __predicate__ productionEndYear __object__ 1997']
+
+Triple: ['__subject__ Cyril Frankel __predicate__ occupation __object__ Television_director']
+
+Triple: ['__subject__ The Two Towers __predicate__ publisher __object__ George_Allen_&_Unwin']
+
+Triple: ['__subject__ Olga Bondareva __predicate__ deathPlace __object__ Saint_Petersburg']
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ residence __object__ Turkey']
+
+Triple: ['__subject__ John Mills __predicate__ child __object__ Hayley_Mills']
+
+Triple: ['__subject__ Terence Rattigan __predicate__ deathDate __object__ 1977-11-30']
+
+Triple: ['__subject__ Turkey __predicate__ officialLanguage __object__ Turkish_language']
+
+Triple: ['__subject__ English language __predicate__ iso6392Code __object__ eng']
+
+Triple: ['__subject__ Hypermarcas __predicate__ numberOfEmployees __object__ 10252']
+
+Triple: ['__subject__ Train (band) __predicate__ formerBandMember __object__ Charlie_Colin']
+
+Triple: ['__subject__ Pontiac Rageous __predicate__ assembly __object__ Michigan']
+
+Triple: ['__subject__ Saint Petersburg __predicate__ foundingDate __object__ 1703-05-27']
+
+Triple: ['__subject__ Piotr Hallmann __predicate__ height __object__ 175.26']
+
+Triple: ['__subject__ Darlington __predicate__ populationTotal __object__ 106000']
+
+Triple: ['__subject__ Nie Haisheng __predicate__ birthDate __object__ 1964-10-13']
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ precededBy __object__ Demo_2004_(Year_of_No_Light_album)']
+
+Triple: ['__subject__ Anatole de Grunwald __predicate__ birthPlace __object__ Saint_Petersburg']
+
+Triple: ['__subject__ The Fellowship of the Ring __predicate__ followedBy __object__ The_Two_Towers']
+
+Triple: ['__subject__ Year of No Light __predicate__ associatedBand/associatedMusicalArtist __object__ Altar_of_Plagues']
+
+Triple: ['__subject__ The Hobbit __predicate__ literaryGenre __object__ High_fantasy']
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ orbitalPeriod __object__ 1249.6']
+
+Triple: ['__subject__ Morelos __predicate__ isPartOf __object__ Cuernavaca']
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ deathDate __object__ 1994-06-14']
+
+Triple: ['__subject__ India __predicate__ areaTotal __object__ 3287590000000.0']
+
+Triple: ['__subject__ University of Cambridge __predicate__ type __object__ Research_university']
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ absoluteMagnitude __object__ 11.5']
+
+Triple: ['__subject__ Mexico __predicate__ leaderTitle __object__ President of the Chamber of Deputies']
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ John_Mills"]
+
+Triple: ['__subject__ English Without Tears __predicate__ writer __object__ Anatole_de_Grunwald']
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ birthPlace __object__ Turkey']
+
